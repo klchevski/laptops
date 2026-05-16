@@ -1,5 +1,19 @@
-Acer=500
-Asus=800
-HP=600
+Laptops
 
-total price = 1900
+Acer = 500
+Asus = 800
+HP = 600
+
+total price laptops = 1900
+
+Phones
+
+Samsung = 800
+RedMe = 600
+Mi = 700
+Apple = 1000
+
+total price phones = 3300
+
+
+all products total price = 5200 
