@@ -1,3 +1,5 @@
-Acer
-Asus
-HP
+Acer=500
+Asus=800
+HP=600
+
+total price = 1900
